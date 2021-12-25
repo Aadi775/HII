@@ -8,13 +8,16 @@ An self-thought programmer, Linux enthusiast
 - 📩 If you'r looking to contact me, look at the bottom
 
 ## Languages
-# javascript
-# python
-# Java
-# c
-# c++
-# c#
-# matlab
+-  javascript
+- python
+- Java
+- c
+- c++
+- c#
+- matlab
+
+
+![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi775&show_icons=true&theme=radical)
 
 ## Social
-[![Discord](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)](https://discords.com/bio/p/akabanekarma)
+[discord](https://discords.com/bio/p/akabanekarma)
