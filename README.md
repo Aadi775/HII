@@ -8,7 +8,7 @@ An self-thought programmer, Linux enthusiast
 - 📩 If you'r looking to contact me, look at the bottom
 
 ## Languages
-![Javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![Javascript](https://user-images.githubusercontent.com/77189096/147378685-0e6a56ea-62a8-4f2e-922d-c6741a838b64.png)
 ![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
 ![java](https://www.oracle.com/oce/press/assets/CONT2F6AE229113D42EC9C59FAED5BAA0380/native/og-social-java-logo.gif)
 ![C](https://www.oracle.com/oce/press/assets/CONT2F6AE229113D42EC9C59FAED5BAA0380/native/og-social-java-logo.gif)
